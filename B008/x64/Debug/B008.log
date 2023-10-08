@@ -1,0 +1,4 @@
+﻿  B008.cpp
+D:\Code\23521523\B008\B008.cpp(15,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Code\23521523\B008\B008.cpp(20,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  B008.vcxproj -> D:\Code\23521523\x64\Debug\B008.exe

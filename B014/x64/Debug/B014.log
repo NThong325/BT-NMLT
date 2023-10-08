@@ -1,0 +1,3 @@
+﻿  B014.cpp
+D:\Code\23521523\B014\B014.cpp(18,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  B014.vcxproj -> D:\Code\23521523\x64\Debug\B014.exe

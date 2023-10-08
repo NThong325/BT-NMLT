@@ -1,0 +1,4 @@
+﻿  B084.cpp
+D:\Code\23521523\B084\B084.cpp(7,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Code\23521523\B084\B084.cpp(11,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  B084.vcxproj -> D:\Code\23521523\x64\Debug\B084.exe

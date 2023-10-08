@@ -1,0 +1,3 @@
+﻿  B062.cpp
+D:\Code\23521523\B062\B062.cpp(14,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  B062.vcxproj -> D:\Code\23521523\x64\Debug\B062.exe

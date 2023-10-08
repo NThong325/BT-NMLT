@@ -1,0 +1,3 @@
+﻿  B082.cpp
+D:\Code\23521523\B082\B082.cpp(11,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  B082.vcxproj -> D:\Code\23521523\x64\Debug\B082.exe

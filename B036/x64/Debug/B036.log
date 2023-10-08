@@ -1,0 +1,3 @@
+﻿  B036.cpp
+D:\Code\23521523\B036\B036.cpp(12,9): warning C4244: 'return': conversion from 'long' to 'float', possible loss of data
+  B036.vcxproj -> D:\Code\23521523\x64\Debug\B036.exe
